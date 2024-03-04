@@ -2,7 +2,9 @@
 ### I'm Abhisek Nayak 
 ### There is something you really need to know about me
 
--Currently 3rd year B.Tech Student at SOA | ITER<br> -🔭 Getting hands-one experience on upcoming technology in field of Cybersecurity.<br>-Setting a new path to be updated in cyberspace.<br>
+-Currently 3rd year B.Tech Student at SOA | ITER<br> 
+-🔭 Getting hands-onn experience on upcoming technology in field of Cybersecurity.<br>
+-Setting a new path to be updated in cyberspace.<br>
 
 
 ## 🌐 Socials:
