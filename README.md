@@ -15,8 +15,7 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Mr-Nightmare-33) 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user//Bulky_Toe3730) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Abhisek37268184) 
-[![THM](https://icon-icons.com/search/icons/tryhackme)](https://tryhackme.com/p/cryptKeeper)
-[![roadmap.sh](https://roadmap.sh/card/tall/6639c16898bce1e3ba0f724a?variant=dark)](https://roadmap.sh)
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
